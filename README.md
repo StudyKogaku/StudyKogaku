@@ -5,10 +5,10 @@ studying programming languages to improve skills and achieve projects.
 ## Interests :
 Robotics, Aerodynamics, Aerospace, Numerical Simulation
 
-## Languages :
+## Languages and Tools:
 
-### Studying
-<img src="https://skillicons.dev/icons?i=python,c,matlab,markdown,github,vscode" /> <br /><br />
+### Learning
+<img src="https://skillicons.dev/icons?i=python,c,matlab,markdown,latex,github,vscode,linux" />
 
 ### Plan to study in future
-<img src="https://skillicons.dev/icons?i=docker,html,css" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,html,css,javascript" />
