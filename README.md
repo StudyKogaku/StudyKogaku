@@ -1,5 +1,5 @@
 # About Me
-I'm a Mechanical Engineering Student at Tokyo University of Science,
+I'm a Mechanical Engineering Student,
 studying programming languages to improve skills and achieve projects.
 
 ## Interests :
