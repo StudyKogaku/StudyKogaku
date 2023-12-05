@@ -8,7 +8,7 @@ Robotics, Aerodynamics, Aerospace, Numerical Simulation
 ## Languages and Tools:
 
 ### Learning
-<img src="https://skillicons.dev/icons?i=python,c,matlab,markdown,latex,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,matlab,c,markdown,latex,github,vscode,linux" />
 
 ### Plan to study in future
 <img src="https://skillicons.dev/icons?i=docker,html,css,javascript" />
